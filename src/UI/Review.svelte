@@ -208,7 +208,7 @@
     
     border-radius: 5px;
     background-color: #ADD8E6;
-    width: 90%;
+    width: 70%;
     margin-left: 20px;
     margin-top: 0;
     margin-right: 20px;
